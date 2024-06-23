@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Workspace Configs',
     description: 'Configs for workspace images',
     icon: '/img/logo.svg',
-    listUrl: 'https://3m0w33d.github.io/kasm-registry,
+    listUrl: 'https://3m0w33d.github.io/kasm-registry',
     contactUrl: 'https://github.com/3m0W33D/kasm-registry/issues',
   },
   reactStrictMode: true,
